@@ -1,0 +1,15 @@
+#content{
+    display: flex;
+    justify-content: space-between;
+}
+
+#kanan{
+    margin-top: 30px;
+    
+}
+
+#kiri{
+    margin-top: 30px;
+}
+
+
